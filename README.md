@@ -1,4 +1,4 @@
-# maze-game
+# Maze game
 
 ## Project overview
 *Built from a course I took.*
